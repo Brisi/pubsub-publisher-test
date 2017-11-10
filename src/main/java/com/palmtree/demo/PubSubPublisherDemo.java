@@ -8,7 +8,7 @@ import com.google.pubsub.v1.TopicName;
 
 public class PubSubPublisherDemo {
 
-    private static final String PROJECT_ID = "krtestprojectshelf";
+    private static final String PROJECT_ID = "testproject";
     private static final String TOPIC_ID = "pubsubDemoTopic";
 
     public static void main(String... args) throws Exception {
